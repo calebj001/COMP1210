@@ -1,0 +1,23 @@
+!1514;s
+J
+SAU0JGRASP_MAIN_BOUNDS=%<CONTROL_SHELL_BOUNDS>\012PATH+=%<JGRASP_PATHS>%;\012PATH=+%;%<JGRASP_C_PATHS>\012CYGWIN=nodosfilewarning\012GCC_COLORS=\012-Run\012ADD_EXE_PATH==Y\012
+SCU0JGRASP_MAIN_BOUNDS=%<CONTROL_SHELL_BOUNDS>\012PATH+=%<JGRASP_PATHS>%;\012PATH=+%;%<JGRASP_C_PATHS>\012CYGWIN=nodosfilewarning\012GCC_COLORS=\012-Run\012ADD_EXE_PATH==Y\012
+S+U0JGRASP_MAIN_BOUNDS=%<CONTROL_SHELL_BOUNDS>\012PATH+=%<JGRASP_PATHS>%;\012PATH=+%;%<JGRASP_C_PATHS>\012CYGWIN=nodosfilewarning\012GCC_COLORS=\012-Run\012ADD_EXE_PATH==Y\012
+SJU0JGRASP_MAIN_BOUNDS=%<CONTROL_SHELL_BOUNDS>\012CLASSPATH=+%;%<EXTENSION_CLASSPATHS>\012CLASSPATH+=%<JGRASP_CLASSPATHS>%;\012File\012CLASSPATH+=.%;\012CLASSPATH+=%<SRC_CLASSPATHS>%;\012ProjectOrFile\012PATH+=%<JAVA_BIN_DIR>%;\012PATH+=%<JGRASP_PATHS>%;\012Debug +Debug_Applet\012CLASSPATH=+%;%<INJECTION_CLASSPATHS>\012Compile\012NOT_FOUND_MESSAGE==Make sure you have the full JDK, not just the JRE, installed.\\nThe JDK is available from https://www.oracle.com/technetwork/java/index.html.\012Run_Applet +Debug_Applet\012ADD_APPLETVIEWER_CLASSPATH==Y\012Document\012CLASSPATH=+%;%<TOOL_CLASSPATHS>\012CLASSPATH+=%<CLASSES_DIR>%;\012
+SXU0
+SOU0JGRASP_MAIN_BOUNDS=%<CONTROL_SHELL_BOUNDS>\012PATH+=%<JGRASP_PATHS>%;\012PATH=+%;%<JGRASP_C_PATHS>\012CYGWIN=nodosfilewarning\012GCC_COLORS=\012-Run\012ADD_EXE_PATH==Y\012
+SyU0JGRASP_MAIN_BOUNDS=%<CONTROL_SHELL_BOUNDS>\012PATH+=%<PYTHON_PATH>%;\012PATH+=%<JGRASP_PATHS>%;\012CYGWIN=nodosfilewarning\012GCC_COLORS=
+SPU0
+s#i0
+s#k0
+s#j0
+s#l0
+!2244;d
+[\012  grasp [\012   legendy -50.8\012   legendx -79.0\012   version 1\012   winflags 3\012   eheight 1008\012   ewidth 896\012   height 1008\012   width 896\012   wbp 4\012   initlayout 0\012   yoffs -123.2000000000001\012   xoffs 97.4\012   scale 1.0\012   args ""\012   otherflags 139\012   shallowjar 1\012   visflags 118423807\012  ]\012  directed 1\012  node [\012   ClassInfo [\012    fields "number\\011I\\011\\0112\\011\\011\\011NumberOperations\011NumberOperations\\011(I)V\\011c\\0111\\011\\011\\011NumberOperations\011getValue\\011()I\\011\\0111\\011\\011\\011NumberOperations\011isGreater\\011(I)I\\011\\0111\\011\\011\\011NumberOperations\011oddsUnder\\011()Ljava/lang/String;\\011\\0111\\011\\011\\011NumberOperations\011powersTwoUnder\\011()Ljava/lang/String;\\011\\0111\\011\\011\\011NumberOperations\011toString\\011()Ljava/lang/String;\\011\\0111\\011\\011\\011NumberOperations"\012    condition 0\012    access2 0\012    access 2228257\012    classname "NumberOperations"\012    fromclassfiledate 1600833489861\012    fromclassfilename "%\011NumberOperations.class"\012    fromfilename "%\011NumberOperations.java"\012   ]\012   id 0\012   graphics [\012    center [\012     x 35.400000000000006\012     y -59.2\012     z 0.0\012    ]\012   ]\012   vgj [\012    flags 0\012   ]\012  ]\012  node [\012   ClassInfo [\012    fields "NumberOpsDriver\\011()V\\011c\\0111\\011\\011\\011NumberOpsDriver\011main\\011([Ljava/lang/String;)V\\011\\0119\\011\\011\\011NumberOpsDriver"\012    condition 0\012    access2 0\012    access 2490401\012    classname "NumberOpsDriver"\012    fromclassfiledate 1600833489853\012    fromclassfilename "%\011NumberOpsDriver.class"\012    fromfilename "%\011NumberOpsDriver.java"\012   ]\012   id 1\012   graphics [\012    center [\012     x -35.400000000000006\012     y 59.2\012     z 0.0\012    ]\012   ]\012   vgj [\012    flags 0\012   ]\012  ]\012  edge [\012   ClassInfo [\012    dependencies "NumberOperations\\011(I)V\\011c\\011\\011\\011\\011NumberOperations\011oddsUnder\\011()Ljava/lang/String;\\011\\011\\011\\011\\011NumberOperations\011powersTwoUnder\\011()Ljava/lang/String;\\011\\011\\011\\011\\011NumberOperations"\012    type 3\012   ]\012   source 0\012   target 1\012  ]\012 ]!53;g
+%\011NumberOpsDriver.java
+%\011NumberOperations.java
+!53;f
+%\011NumberOpsDriver.java
+%\011NumberOperations.java
+!60;t
+jgrCheckstyle0xr	%\011NumberOpsDriver.java	1600833289887:P	
